@@ -5,7 +5,7 @@ function getCountry($code) {
     return $countries[$code];
 }
 #call the function with the country code
-echo getCountry('US');
+echo getCountry('US')
 // working
 ?>
 
