@@ -6,6 +6,7 @@ function getCountry($code) {
 }
 #call the function with the country code
 echo getCountry('US');
+// working
 ?>
 
 
